@@ -1,0 +1,23 @@
+{
+  "name": "website_natur_css_sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelalcindo/WebSite_Natur_CSS_SASS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelalcindo/WebSite_Natur_CSS_SASS/issues"
+  },
+  "homepage": "https://github.com/rafaelalcindo/WebSite_Natur_CSS_SASS#readme",
+  "devDependencies": {
+    "node-sass": "^4.10.0"
+  },
+  "dependencies": {}
+}
